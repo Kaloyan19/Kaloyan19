@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on my own project
  
- 🌱 I’m currently learning Python
+ 🌱 I’m currently studying Software Engineering at TU-Sofia University
 
 ⚡ Fun fact i’m a blackjack dealer:)
 
