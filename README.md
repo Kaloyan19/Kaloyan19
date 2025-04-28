@@ -36,8 +36,16 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,git,r" />
-    <img src="https://skillicons.dev/icons?i=python" /><br>
+    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=django" />
+    <img src="https://skillicons.dev/icons?i=javascript" />
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql" /><br>
 </div>
+
+<br/>
 
 <br/>
 <hr/>
