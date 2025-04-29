@@ -25,9 +25,6 @@
   <a href="https://www.linkedin.com/in/kaloyan-teodosiev-5975a2304/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
 </div>
 
  <hr/>
