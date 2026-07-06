@@ -14,7 +14,6 @@
  
  🌱 I’m currently studying Software Engineering at TU-Sofia University
 
-⚡ Fun fact i’m a blackjack dealer:)
 
  </div>
  
