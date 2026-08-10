@@ -10,10 +10,8 @@
 
 <div align="center">
  
- 🔭 I’m currently working on my own project
- 
- 🌱 I’m currently studying Software Engineering at TU-Sofia University
-
+ 🌱 I'm studying Software Engineering at Technical University of Sofia
+🎯 Looking for Junior Java Backend or Python Developer positions
 
  </div>
  
@@ -31,14 +29,13 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=spring" />
     <img src="https://skillicons.dev/icons?i=python" />
     <img src="https://skillicons.dev/icons?i=django" />
-    <img src="https://skillicons.dev/icons?i=javascript" />
-    <img src="https://skillicons.dev/icons?i=html" />
-    <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=postgres" />
-    <img src="https://skillicons.dev/icons?i=mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=react" />
 </div>
 
 <br/>
